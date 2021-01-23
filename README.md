@@ -1,2 +1,2 @@
-# project2-group4
-WA UV-index
+# Data-Analytics-Project-2
+Project 2
